@@ -19,6 +19,8 @@ Understanding E-Commerce Consumers Shopping Missions Through Unsupervised Learni
 - [Closing thoughts](#closing-thoughts)
 - [References](#references)
 
+---
+
 Human beings have certain needs. Those needs can be categorized into three distinct groups: primary, secondary, and tertiary needs. To address these needs, we, as humans do shopping, While some individuals adopt a regular and structured approach to shopping, adhering to monthly, weekly, or even daily schedules, others are inclined towards more impulsive buying habits. Regardless of the shopping style one adopts, every shopping activity has a specific purpose or mission.
 
 # Understanding shoppers behavior
@@ -241,6 +243,8 @@ While the suggested cluster number was guided by a theoretically sound approach 
 For practitioners, understanding the shopping missions of consumers offers lots of advantages, mainly enabling the implementation of more precise, pertinent, and efficient marketing activities. Retailers can tailor their efforts toward creating specific campaigns that cater to the unique characteristics and preferences associated with each shopping mission. Likewise, by strategically positioning their brands within the framework of various shopping missions, goods manufacturers can capitalize on the opportunity to bolster brand relevance and convenience for shoppers. This involves crafting brand narratives and product placements that align seamlessly with the context of each shopping mission, thereby cultivating a stronger resonance with consumers.
 
 For academicians, there is wide room to explore and experiment with this kind of analysis. Refining data processing techniques, exploring alternative methodologies, or even embracing machine learning-based approaches holds significant promise. The objective is to improve the precision of the shopping mission segmentation so that conclusive insights can be drawn. Huge credit is owed to a published paper authored by Sarantopoulos and friends (see References), which served as a profound source of inspiration for this article. An alternative avenue for selecting the experimental subject and the clustering methodology was embarked upon to satisfy the inquisitiveness of the author (me).
+
+---
 
 # References
 
