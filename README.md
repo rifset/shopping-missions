@@ -35,7 +35,7 @@ Addressing the grey area between concreteness and abstractness, there exist rela
 
 ![Conceptual relationship between shopping goals and missions [1].](asset/shopping-goal-and-mission.jpg)
 
-Conceptual relationship between shopping goals and missions [1].
+*Conceptual relationship between shopping goals and missions [1].*
 
 ## Shopping missions
 
@@ -60,6 +60,8 @@ Moving on to e-commerce, a parallel can be drawn in terms of the variety of prod
 Cluster analysis, commonly referred to as clustering, is the process of categorizing a collection of objects in a manner that aligns objects within the same group, or cluster, based on their degree of similarity to each other. This principle entails that items sharing greater affinities are grouped together within a cluster, forging connections that are more pronounced compared to connections with objects in other clusters. Clustering is categorized as unsupervised learning. Unlike supervised learning, clustering lacks a predefined reference point, or "ground truth," that would enable the assessment of the accuracy of the clustering outcomes.
 
 ![k-medoids.png](asset/k-medoids.png)
+
+*Mean vs medoid illustrated [2].*
 
 In this article, the main analysis uses a specific hard clustering technique known as K-Medoids. This method entails the partitioning of data into clusters, where each cluster is represented by a data point termed a "medoid." The K-Medoids algorithm strives to minimize the dissimilarity or distance between data points within a cluster while maximizing the dissimilarity between clusters. To learn more about this kind of clustering, see [2].
 
